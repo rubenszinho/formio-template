@@ -4,7 +4,7 @@
 
 # Use Node image, maintained by Docker:
 # hub.docker.com/r/_/node/
-FROM node:24-alpine
+FROM node:20-alpine
 
 # Copy source dependencies
 COPY src/ /app/src/
