@@ -1,0 +1,13 @@
+{
+    "mongo": "MONGO_URL",
+    "mongoSecret": "MONGO_SECRET",
+    "jwt": {
+        "secret": "JWT_SECRET"
+    },
+    "domain": "DOMAIN",
+    "port": "PORT",
+    "email": {
+        "username": "EMAIL_USERNAME",
+        "password": "EMAIL_PASSWORD"
+    }
+}
